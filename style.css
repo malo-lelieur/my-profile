@@ -1,0 +1,63 @@
+/* GLOBAL */
+body {
+  background-color: #f4f7f8;
+  font-family: 'Poppins', sans-serif;
+  color: #333;
+  text-align: center;
+}
+
+/* CONTAINER */
+.container {
+  width: 700px;
+  margin: 40px auto;
+}
+
+/* CARD */
+.card-white {
+  background: white;
+  padding: 30px;
+  margin: 20px 0;
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+/* IMAGE */
+.img-circle {
+  border-radius: 50%;
+  margin: 20px 0;
+}
+
+/* TITRES */
+h1 {
+  color: #2ECC71;
+}
+
+h2 {
+  color: #34495E;
+}
+
+/* BOUTON */
+.btn-blue {
+  display: inline-block;
+  background-color: #3498DB;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+.btn-blue:hover {
+  background-color: #1ABC9C;
+}
+
+/* LISTE INLINE */
+.list-inline {
+  list-style: none;
+  padding-left: 0;
+}
+
+.list-inline li {
+  display: inline;
+  padding: 10px;
+}
